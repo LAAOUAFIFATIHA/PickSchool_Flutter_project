@@ -1,0 +1,57 @@
+{
+  "schools": [
+    { "value": "ESTE", "text": "ESTE" },
+    { "value": "INPT", "text": "INPT" },
+    { "value": "ENSAM", "text": "ENSAM" },
+    { "value": "Ensias", "text": "Ensias" }
+  ],
+  "ESTE": [
+    { "value": "GI", "text": "GI" },
+    { "value": "IDSD", "text": "IDSD" },
+    { "value": "ER", "text": "ER" },
+    { "value": "GE", "text": "GE" },
+    { "value": "TM", "text": "TM" },
+    { "value": "MT", "text": "MT" }
+  ] ,
+  "INPT": [
+    { "value": "DATA", "text": "DATA" , "selection": {"spc": "1.5" ,"SSVT":"1" , "SM": "1.2" } },
+    { "value": "IDSD", "text": "IDSD", "selection": {"spc": "1.5" ,"SSVT":"1" , "SM": "1.2" } },
+    { "value": "ER", "text": "ER" , "selection": {"spc": "1.5" ,"SSVT":"1" , "SM": "1.2" }},
+    { "value": "GE", "text": "GE" , "selection": {"spc": "1.5" ,"SSVT":"1" , "SM": "1.2" }},
+    { "value": "TM", "text": "TM" , "selection": {"spc": "1.5" ,"SSVT":"1" , "SM": "1.2" }},
+    { "value": "MT", "text": "MT" , "selection": {"spc": "1.5" ,"SSVT":"1" , "SM": "1.2" }}
+  ] ,
+  "ENSAM": [
+    { "value": "DATA", "text": "DATA" , "selection": {"spc": "1.5" ,"SSVT":"1" , "SM": "1.2" } },
+    { "value": "IDSD", "text": "IDSD", "selection": {"spc": "1.5" ,"SSVT":"1" , "SM": "1.2" } },
+    { "value": "ER", "text": "ER" , "selection": {"spc": "1.5" ,"SSVT":"1" , "SM": "1.2" }},
+    { "value": "GE", "text": "GE" , "selection": {"spc": "1.5" ,"SSVT":"1" , "SM": "1.2" }},
+    { "value": "TM", "text": "TM" , "selection": {"spc": "1.5" ,"SSVT":"1" , "SM": "1.2" }},
+    { "value": "MT", "text": "MT" , "selection": {"spc": "1.5" ,"SSVT":"1" , "SM": "1.2" }}
+  ]  ,
+  "Ensias": [
+    { "value": "DATA", "text": "DATA" , "selection": {"spc": "1.5" ,"SSVT":"1" , "SM": "1.2" } },
+    { "value": "IDSD", "text": "IDSD", "selection": {"spc": "1.5" ,"SSVT":"1" , "SM": "1.2" } },
+    { "value": "ER", "text": "ER" , "selection": {"spc": "1.5" ,"SSVT":"1" , "SM": "1.2" }},
+    { "value": "GE", "text": "GE" , "selection": {"spc": "1.5" ,"SSVT":"1" , "SM": "1.2" }},
+    { "value": "TM", "text": "TM" , "selection": {"spc": "1.5" ,"SSVT":"1" , "SM": "1.2" }},
+    { "value": "MT", "text": "MT" , "selection": {"spc": "1.5" ,"SSVT":"1" , "SM": "1.2" }}
+  ]  ,
+  "field": [
+    { "value": "SPC", "text": "SPC" , "selection": {"spc": "1.5" ,"SSVT":"1" , "SM": "1.2" } },
+    { "value": "SSVT", "text": "SSVT", "selection": {"spc": "1.2" ,"SSVT":"1" , "SM": "1.2" } },
+    { "value": "SM", "text": "SM" , "selection": {"spc": "1.2" ,"SSVT":"1" , "SM": "1.2" }},
+    { "value": "EC", "text": "EC" , "selection": {"spc": "1.5" ,"SSVT":"1" , "SM": "1.2" }}
+  ],
+  "levels": [
+    { "value": "BAC", "text": "BAC" , "selection": {"spc": "1.5" ,"SSVT":"1" , "SM": "1.2" } },
+    { "value": "BAC+1", "text": "BAC+1", "selection": {"spc": "1.5" ,"SSVT":"1" , "SM": "1.2" } },
+    { "value": "BAC+2", "text": "BAC+2" , "selection": {"spc": "1.5" ,"SSVT":"1" , "SM": "1.2" }},
+    { "value": "BAC+3", "text": "BAC+3" , "selection": {"spc": "1.5" ,"SSVT":"1" , "SM": "1.2" }}
+  ]
+
+}
+
+
+
+

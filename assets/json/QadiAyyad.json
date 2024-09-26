@@ -1,0 +1,803 @@
+{ "univesities": [
+  {
+    "Quadi Ayyad": [
+      {
+        "Cities": [
+          {
+            "Marrakech": [
+              {
+                "Schools": [
+                  {
+                    "Faculté des Sciences Semlalia (FSS)": [
+                      {
+                        "fields": [
+                          {
+                            "name": "Mathématiques et Informatique",
+                            "weight_factor": {"Scientific_Baccalaureate": 0.4  , "Economic_and_Social_Baccalaureate": 0.3
+                            }
+                          },
+
+                          {
+                            "name": "Physique",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.3,
+                              "Economic_and_Social_Baccalaureate": 0.2
+                            }
+                          },
+
+                          {
+                            "name": "Chimie",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.4,
+                              "Economic_and_Social_Baccalaureate": 0.2
+                            }
+                          },
+
+                          {
+                            "name": "Biologie",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.5,
+                              "Economic_and_Social_Baccalaureate": 0.2
+                            }
+                          },
+
+                          {
+                            "name": "Géologie",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.4,
+                              "Economic_and_Social_Baccalaureate": 0.3
+                            }
+                          },
+                          {
+                            "name": "Sciences de l'Environnement",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.5,
+                              "Economic_and_Social_Baccalaureate": 0.3
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "Faculté des Lettres et Sciences Humaines (FLSH)": [
+                      {
+                        "fields": [
+                          {
+                            "name": "Langues",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.2,
+                              "Literary_Baccalaureate": 0.5,
+                              "Economic_and_Social_Baccalaureate": 0.3
+                            }
+                          },
+                          {
+                            "name": "Littérature",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.1,
+                              "Literary_Baccalaureate": 0.6,
+                              "Economic_and_Social_Baccalaureate": 0.3
+                            }
+                          },
+                          {
+                            "name": "Philosophie",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.2,
+                              "Literary_Baccalaureate": 0.5,
+                              "Economic_and_Social_Baccalaureate": 0.3
+                            }
+                          },
+                          {
+                            "name": "Histoire",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.1,
+                              "Literary_Baccalaureate": 0.6,
+                              "Economic_and_Social_Baccalaureate": 0.3
+                            }
+                          },
+
+                          {
+                            "name": "Géographie",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.3,
+                              "Economic_and_Social_Baccalaureate": 0.3
+                            }
+                          },
+
+                          {
+                            "name": "Sociologie",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.2,
+                              "Literary_Baccalaureate": 0.5,
+                              "Economic_and_Social_Baccalaureate": 0.3
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "Faculté des Sciences Juridiques, Economiques et Sociales (FSJES)": [
+                      {
+                        "fields": [
+                          {
+                            "name": "Droit Public",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.2,
+                              "Literary_Baccalaureate": 0.5,
+                              "Economic_and_Social_Baccalaureate": 0.3
+                            }
+                          },
+                          {
+                            "name": "Droit Privé",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.2,
+                              "Literary_Baccalaureate": 0.5,
+                              "Economic_and_Social_Baccalaureate": 0.3
+                            }
+                          },
+                          {
+                            "name": "Économie et Gestion",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.3,
+                              "Literary_Baccalaureate": 0.2,
+                              "Economic_and_Social_Baccalaureate": 0.5
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "Faculté de Médecine et de Pharmacie (FMP)": [
+                      {
+                        "fields": [
+                          {
+                            "name": "Médecine",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.8,
+                              "Economic_and_Social_Baccalaureate": 0.1
+                            }
+                          },
+                          {
+                            "name": "Pharmacie",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.7,
+                              "Economic_and_Social_Baccalaureate": 0.2
+                            }
+                          },
+                          {
+                            "name": "Médecine Dentaire",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.8,
+                              "Economic_and_Social_Baccalaureate": 0.1
+                            }
+                          },
+                          {
+                            "name": "Sciences Pharmaceutiques",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.7,
+                              "Economic_and_Social_Baccalaureate": 0.2
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "Faculté des Sciences et Techniques (FST)": [
+                      {
+                        "fields": [
+                          {
+                            "name": "Informatique",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.4,
+                              "Economic_and_Social_Baccalaureate": 0.3
+                            }
+                          },
+                          {
+                            "name": "Électronique",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.5,
+                              "Economic_and_Social_Baccalaureate": 0.3
+                            }
+                          },
+                          {
+                            "name": "Génie Civil",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.6,
+                              "Economic_and_Social_Baccalaureate": 0.3
+                            }
+                          },
+                          {
+                            "name": "Mécanique",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.5,
+                              "Economic_and_Social_Baccalaureate": 0.4
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "École Supérieure de Technologie (EST)": [
+                      {
+                        "fields": [
+                          {
+                            "name": "IDSD",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.4,
+                              "Economic_and_Social_Baccalaureate": 0.3
+                            }
+                          },
+                          {
+                            "name": "Informatique",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.5,
+                              "Economic_and_Social_Baccalaureate": 0.3
+                            }
+                          },
+                          {
+                            "name": "Gestion",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.3,
+                              "Economic_and_Social_Baccalaureate": 0.5
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "Institut Supérieur de Professions Infirmières et Techniques de Santé (ISPITS)": [
+                      {
+                        "fields": [
+                          {
+                            "name": "Infirmier",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.7,
+                              "Economic_and_Social_Baccalaureate": 0.1
+                            }
+                          },
+                          {
+                            "name": "Technicien_Santé",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.6,
+                              "Economic_and_Social_Baccalaureate": 0.2
+                            }
+                          },
+                          {
+                            "name": "Paramédical",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.65,
+                              "Economic_and_Social_Baccalaureate": 0.1
+                            }
+                          },
+                          {
+                            "name": "Gestion des Services de Santé",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.55,
+                              "Economic_and_Social_Baccalaureate": 0.15
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "École des Beaux-Arts": [
+                      {
+                        "fields": [
+                          {
+                            "name": "Arts Plastiques",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.3,
+                              "Literary_Baccalaureate": 0.1
+                            }
+                          },
+                          {
+                            "name": "Sciences Pharmaceutiques",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.7,
+                              "Literary_Baccalaureate": 0.1,
+                              "Economic_and_Social_Baccalaureate": 0.2
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Essaouira": [
+              {
+                "Schools": [
+                  {
+                    "École Supérieure de Technologie (ESTE)": [
+                      {
+                        "fields": [
+                          {
+                            "name": "IDSD",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 1.2,
+                              "Economic_and_Social_Baccalaureate": 1
+                            }
+                          },
+                          {
+                            "name": "Informatique",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.5,
+                              "Economic_and_Social_Baccalaureate": 0.3
+                            }
+                          },
+                          {
+                            "name": "Gestion",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.3,
+                              "Economic_and_Social_Baccalaureate": 0.5
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "Institut Supérieur de Professions Infirmières et Techniques de Santé (ISPITS)": [
+                      {
+                        "fields": [
+                          {
+                            "name": "Infirmier",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.7,
+                              "Literary_Baccalaureate": 0.2,
+                              "Economic_and_Social_Baccalaureate": 0.1
+                            }
+                          },
+                          {
+                            "name": "Technicien_Santé",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.6,
+                              "Literary_Baccalaureate": 0.2,
+                              "Economic_and_Social_Baccalaureate": 0.2
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Safi": [
+              {
+                "Schools": [
+                  {
+                    "École Nationale des Sciences Appliquées (ENSA)": [
+                      {
+                        "fields": [
+                          {
+                            "name": "Ingénierie Informatique",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.6,
+                              "Economic_and_Social_Baccalaureate": 0.2
+                            }
+                          },
+                          {
+                            "name": "Ingénierie Électrique",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.6,
+                              "Literary_Baccalaureate": 0.2,
+                              "Economic_and_Social_Baccalaureate": 0.2
+                            }
+                          },
+                          {
+                            "name": "Ingénierie Mécanique",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.6,
+                              "Economic_and_Social_Baccalaureate": 0.2
+                            }
+                          },
+                          {
+                            "name": "Ingénierie Industrielle",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.5,
+                              "Economic_and_Social_Baccalaureate": 0.3
+                            }
+                          },
+                          {
+                            "name": "Ingénierie des Systèmes",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.5,
+                              "Economic_and_Social_Baccalaureate": 0.2
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "École Supérieure de Technologie (EST)": [
+                      {
+                        "fields": [
+                          {
+                            "name": "Génie Informatique",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.5,
+                              "Economic_and_Social_Baccalaureate": 0.4
+                            }
+                          },
+                          {
+                            "name": "Génie Électrique",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.6,
+                              "Economic_and_Social_Baccalaureate": 0.2
+                            }
+                          },
+                          {
+                            "name": "Génie Mécanique",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.6,
+                              "Economic_and_Social_Baccalaureate": 0.2
+                            }
+                          },
+                          {
+                            "name": "Génie Industriel",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.5,
+                              "Economic_and_Social_Baccalaureate": 0.3
+                            }
+                          },
+                          {
+                            "name": "Génie Civil",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.6,
+                              "Economic_and_Social_Baccalaureate": 0.2
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Al Haouz": [
+              {
+                "Schools": [
+                  {
+                    "Faculté des Sciences et Techniques (FST)": [
+                      {
+                        "fields": [
+                          {
+                            "name": "Sciences de l'Ingénieur",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.6,
+                              "Literary_Baccalaureate": 0.1,
+                              "Economic_and_Social_Baccalaureate": 0.3
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Kalaa of Sraghna": [
+              {
+                "Schools": [
+                  {
+                    "École Supérieure de Technologie (EST)": [
+                      {
+                        "fields": [
+                          {
+                            "name": "Informatique",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.5,
+                              "Literary_Baccalaureate": 0.2,
+                              "Economic_and_Social_Baccalaureate": 0.3
+                            }
+                          },
+                          {
+                            "name": "Gestion",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.3,
+                              "Literary_Baccalaureate": 0.3,
+                              "Economic_and_Social_Baccalaureate": 0.4
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Hassan II": [
+      {
+        "Cities": [
+          {
+            "Casablanca": [
+              {
+                "Schools": [
+                  {
+                    "FSS": [
+                      {
+                        "fields": [
+                          {
+                            "name": "Physics",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.3,
+                              "Literary_Baccalaureate": 0.1,
+                              "Economic_and_Social_Baccalaureate": 0.2
+                            }
+                          },
+                          {
+                            "name": "Chemistry",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.4,
+                              "Literary_Baccalaureate": 0.1,
+                              "Economic_and_Social_Baccalaureate": 0.2
+                            }
+                          },
+                          {
+                            "name": "Biology",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.5,
+                              "Literary_Baccalaureate": 0.1,
+                              "Economic_and_Social_Baccalaureate": 0.2
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "Faculty of Medicine": [
+                      {
+                        "fields": [
+                          {
+                            "name": "General Medicine",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.8,
+                              "Literary_Baccalaureate": 0.1,
+                              "Economic_and_Social_Baccalaureate": 0.1
+                            }
+                          },
+                          {
+                            "name": "Pharmacy",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.7,
+                              "Literary_Baccalaureate": 0.1,
+                              "Economic_and_Social_Baccalaureate": 0.2
+                            }
+                          },
+                          {
+                            "name": "Dentistry",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.8,
+                              "Literary_Baccalaureate": 0.1,
+                              "Economic_and_Social_Baccalaureate": 0.1
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "Faculty of Law": [
+                      {
+                        "fields": [
+                          {
+                            "name": "Public Law",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.2,
+                              "Literary_Baccalaureate": 0.5,
+                              "Economic_and_Social_Baccalaureate": 0.3
+                            }
+                          },
+                          {
+                            "name": "Private Law",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.2,
+                              "Literary_Baccalaureate": 0.5,
+                              "Economic_and_Social_Baccalaureate": 0.3
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "Higher School of Technology": [
+                      {
+                        "fields": [
+                          {
+                            "name": "Computer Science",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.4,
+                              "Literary_Baccalaureate": 0.1,
+                              "Economic_and_Social_Baccalaureate": 0.3
+                            }
+                          },
+                          {
+                            "name": "Engineering",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.5,
+                              "Literary_Baccalaureate": 0.1,
+                              "Economic_and_Social_Baccalaureate": 0.3
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "Faculty of Letters and Human Sciences": [
+                      {
+                        "fields": [
+                          {
+                            "name": "Languages",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.2,
+                              "Literary_Baccalaureate": 0.5,
+                              "Economic_and_Social_Baccalaureate": 0.3
+                            }
+                          },
+                          {
+                            "name": "Literature",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.1,
+                              "Literary_Baccalaureate": 0.6,
+                              "Economic_and_Social_Baccalaureate": 0.3
+                            }
+                          },
+                          {
+                            "name": "Philosophy",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.2,
+                              "Literary_Baccalaureate": 0.5,
+                              "Economic_and_Social_Baccalaureate": 0.3
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Mohammedia": [
+              {
+                "Schools": [
+                  {
+                    "National School of Business and Management": [
+                      {
+                        "fields": [
+                          {
+                            "name": "Business Administration",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.3,
+                              "Literary_Baccalaureate": 0.2,
+                              "Economic_and_Social_Baccalaureate": 0.5
+                            }
+                          },
+                          {
+                            "name": "Marketing",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.2,
+                              "Literary_Baccalaureate": 0.3,
+                              "Economic_and_Social_Baccalaureate": 0.5
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "Faculty of Sciences and Techniques": [
+                      {
+                        "fields": [
+                          {
+                            "name": "Engineering",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.5,
+                              "Literary_Baccalaureate": 0.1,
+                              "Economic_and_Social_Baccalaureate": 0.4
+                            }
+                          },
+                          {
+                            "name": "Computer Science",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.4,
+                              "Literary_Baccalaureate": 0.1,
+                              "Economic_and_Social_Baccalaureate": 0.5
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "El Jadida": [
+              {
+                "Schools": [
+                  {
+                    "National School of Applied Sciences": [
+                      {
+                        "fields": [
+                          {
+                            "name": "Applied Physics",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.4,
+                              "Literary_Baccalaureate": 0.1,
+                              "Economic_and_Social_Baccalaureate": 0.3
+                            }
+                          },
+                          {
+                            "name": "Applied Mathematics",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.3,
+                              "Literary_Baccalaureate": 0.1,
+                              "Economic_and_Social_Baccalaureate": 0.4
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "Polydisciplinary Faculty": [
+                      {
+                        "fields": [
+                          {
+                            "name": "Law",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.2,
+                              "Literary_Baccalaureate": 0.5,
+                              "Economic_and_Social_Baccalaureate": 0.3
+                            }
+                          },
+                          {
+                            "name": "Economics",
+                            "weight_factor": {
+                              "Scientific_Baccalaureate": 0.3,
+                              "Literary_Baccalaureate": 0.2,
+                              "Economic_and_Social_Baccalaureate": 0.5
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+}
+
