@@ -10,8 +10,6 @@
  <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" height="30%" width="30%"></img>
 
 
-
-
 The purpose of this initiative is to help students forecast their likelihood of being accepted into a specific school. The approach helps students make decisions by giving them insights into their chances of admission through the analysis of multiple criteria and factors. 
 
 ## Project objective
