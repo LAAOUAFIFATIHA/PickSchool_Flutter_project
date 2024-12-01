@@ -196,7 +196,7 @@ void ensureDeleting ( index , e , schoolToDelete , lenght , MapOfSchools , unive
     showDialog(
         context: context,
         builder: (context) => AlertDialog(
-        content: Text("You want to delete "+e.toString()+"\n\n Are you sure ?"),
+        content: Text("You want to delete :   "+e["field"].toString()+"\n\n Are you sure ?"),
         actions: [
 
         ElevatedButton(

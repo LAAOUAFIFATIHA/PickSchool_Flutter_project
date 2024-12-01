@@ -46,6 +46,13 @@ dependencies:
   rxdart: ^0.27.2
   image_picker: ^1.1.2
   flutter_spinkit: ^5.2.1
+  http: ^1.2.1
+  fl_chart: ^0.69.0
+  flutter_launcher_icons: ^0.14.1
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/android/play_store_512.png"
 
 
 dev_dependencies:

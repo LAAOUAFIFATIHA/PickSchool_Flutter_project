@@ -153,35 +153,35 @@ class _Page1State extends State<Page1> {
 
                 const  SizedBox(height: 18,),
 
-                /// note
-                TextFormField(
-                  controller:noteController ,
-                  decoration: InputDecoration(
-                      border: OutlineInputBorder(
-                        borderRadius: BorderRadius.circular(12),
-                      ) ,
-                      hintText: "note",
-                    fillColor: Colors.lightGreen ,
-                    filled: true ,
-                  ),
-                  inputFormatters: [
-                    FilteringTextInputFormatter.allow(RegExp(r'[0-9.]')),
-                    LengthLimitingTextInputFormatter(6), // Allows 34 characters maximum
-                  ],
-                  keyboardType: TextInputType.number,
-                  validator: (value) {
-                    if (value == null || value.isEmpty) {
-                      return "Please enter a number";
-                    }
-                    final number = int.tryParse(value);
-                    if (number == null || number >= 20) {
-                      return "Enter a note less than 20";
-                    } if (number == null || number < 10  ) {
-                      return "Please  enter a valid note (up to 10) ";
-                    }
-                    return null;
-                  },
-                ),
+                // /// note
+                // TextFormField(
+                //   controller:noteController ,
+                //   decoration: InputDecoration(
+                //       border: OutlineInputBorder(
+                //         borderRadius: BorderRadius.circular(12),
+                //       ) ,
+                //       hintText: "note",
+                //     fillColor: Colors.lightGreen ,
+                //     filled: true ,
+                //   ),
+                //   inputFormatters: [
+                //     FilteringTextInputFormatter.allow(RegExp(r'[0-9.,]')),
+                //     LengthLimitingTextInputFormatter(6), // Allows 34 characters maximum
+                //   ],
+                //   keyboardType: TextInputType.numberWithOptions(decimal: true),
+                //   validator: (value) {
+                //     if (value == null || value.isEmpty) {
+                //       return "Please enter a number";
+                //     }
+                //     final number = double.tryParse(value);
+                //     if (number == null || number > 20) {
+                //       return "Enter a note less than 20";
+                //     } if (number == null || number < 10  ) {
+                //       return "Please  enter a valid note (up to 10) ";
+                //     }
+                //     return null;
+                //   },
+                // ),
 
                 const SizedBox(height: 18,),
 
@@ -204,12 +204,9 @@ class _Page1State extends State<Page1> {
                   validator: (value) {
                     if (value == null || value.isEmpty) {
                       return "Please enter a number";
-                    }
-                    final number = int.tryParse(value);
-                    if (number == null || number >= 20) {
-                      return "Enter a note less than 20";
-                    } if (number == null || number < 10  ) {
-                      return "Please  enter a valid note (up to 10) ";
+                    }final number = int.tryParse(value);
+                   if (number == null || number < 1  ) {
+                      return "Please  enter a valid   age";
                     }
                     return null;
                   },

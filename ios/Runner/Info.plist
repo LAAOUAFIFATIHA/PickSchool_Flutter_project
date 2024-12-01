@@ -8,7 +8,7 @@
     <string>We need access to your photo library to choose photos.</string>
 
 	<key>CFBundleDevelopmentRegion</key>
-	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<string>real_project</string>
 	<key>CFBundleDisplayName</key>
 	<string>Real Project</string>
 	<key>CFBundleExecutable</key>

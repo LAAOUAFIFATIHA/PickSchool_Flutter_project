@@ -3,11 +3,16 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:real_project/pages/profile.dart';
-import 'package:real_project/pages/schoolsDescription.dart';
+// import 'package:real_project/pages/schoolsDescription.dart';
+import 'analyse/analyse.dart';
+import 'analyse/myGraph.dart';
+import 'api.dart';
 import 'auth_page.dart';
 
 class navbar extends StatefulWidget {
-  const navbar({super.key});
+  navbar({super.key});
+
+
 
   @override
   State<navbar> createState() => _navbarState();
@@ -16,6 +21,7 @@ class navbar extends StatefulWidget {
 class _navbarState extends State<navbar> {
   @override
   Widget build(BuildContext context) {
+    final user = FirebaseAuth.instance.currentUser!;
     return   Column(
       children: [
         Expanded(
@@ -26,7 +32,7 @@ class _navbarState extends State<navbar> {
                 // the profile
                 UserAccountsDrawerHeader(
                     accountName: const  Text("student"),
-                    accountEmail: Text('user.email.toString'),
+                    accountEmail: Text(user.email.toString()),
                     currentAccountPicture:IconButton(
                       onPressed: () {
                         Navigator.push(context, MaterialPageRoute(builder: (context) => Profile()));
@@ -72,7 +78,7 @@ class _navbarState extends State<navbar> {
                         Navigator.push(
                           context,
                           MaterialPageRoute(
-                              builder: (context) => schoolDesc()),
+                              builder: (context) => ApiPage()),
                         );
                       },
                       icon:  Icon(Icons.school_outlined , size: 30,) ,
@@ -80,8 +86,24 @@ class _navbarState extends State<navbar> {
                     ),
                     const Text('show schools'),
                   ],
-                )
+                ),
 
+
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.start,
+                  children: [
+                    IconButton(
+                        onPressed: () async {
+                          Navigator.push(context, MaterialPageRoute(
+                                                 builder: (context) => analyse()));
+
+                        } ,
+                        icon: Icon(Icons.analytics),
+                        color: Colors.black87
+                    ),
+                    const Text("Analyse"),
+
+                ],)
               ],
             ),
           ),

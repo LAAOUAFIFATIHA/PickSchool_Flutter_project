@@ -8,6 +8,8 @@ class school extends FirestoreService  {
   final student Student = student();
 
   getNumberOfStudent( student ) async {
+    // this function go to the schools of student and
+    // select the length of students table
     print('hello from getNumberOfStudent ');
     final listySchool = await Student.getSchoolsOfStudent(student);
     print('hello from getNumberOfStudent${listySchool}');

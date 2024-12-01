@@ -339,6 +339,23 @@ class _AddSchoolState extends State<AddSchool> {
                       ),
                     hintText: " national "
                   ),
+                  inputFormatters: [
+                    FilteringTextInputFormatter.allow(RegExp(r'[0-9.,]')),
+                    LengthLimitingTextInputFormatter(6), // Allows 34 characters maximum
+                  ],
+                  keyboardType: TextInputType.numberWithOptions(decimal: true),
+                  validator: (value) {
+                    if (value == null || value.isEmpty) {
+                      return "Please enter a number";
+                    }
+                    final number = double.tryParse(value);
+                    if (number == null || number > 20) {
+                      return "Enter a note less than 20";
+                    } if (number == null || number < 10  ) {
+                      return "Please  enter a valid note (up to 10) ";
+                    }
+                    return null;
+                  },
                 ),
               )
                   :SizedBox(),
@@ -361,6 +378,23 @@ class _AddSchoolState extends State<AddSchool> {
                       ),
                       hintText: " regional "
                   ),
+                  inputFormatters: [
+                    FilteringTextInputFormatter.allow(RegExp(r'[0-9.,]')),
+                    LengthLimitingTextInputFormatter(6), // Allows 34 characters maximum
+                  ],
+                  keyboardType: TextInputType.numberWithOptions(decimal: true),
+                  validator: (value) {
+                    if (value == null || value.isEmpty) {
+                      return "Please enter a number";
+                    }
+                    final number = double.tryParse(value);
+                    if (number == null || number > 20) {
+                      return "Enter a note less than 20";
+                    } if (number == null || number < 10  ) {
+                      return "Please  enter a valid note (up to 10) ";
+                    }
+                    return null;
+                  },
                 ),
               )
               :SizedBox(),

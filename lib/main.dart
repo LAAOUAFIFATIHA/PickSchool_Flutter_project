@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
+import 'package:real_project/pages/analyse/analyse.dart';
+import 'package:real_project/pages/api.dart';
 import 'package:real_project/pages/welcomePage.dart';
 import 'firebase_options.dart';
 
@@ -17,7 +19,9 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
+      // home: ApiPage(),
       home: splash_screen(),
+      //home: analyse(),
     );
   }
 }
