@@ -2,7 +2,7 @@
 
 <img src="https://media.istockphoto.com/id/1372327639/vector/business-decision-making-career-path-work-direction-or-choose-the-right-way-to-success.jpg?s=612x612&w=0&k=20&c=1PfTTOp6MT3AAo3GxPM95jykFghCzOYs_zywH_GwiE0=" width="1000" height="300">
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin-url] 
 
 <br>
 
