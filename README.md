@@ -79,5 +79,5 @@ lottie <a href="https://pub.dev/packages/lottie"> documentation </a> <br>
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]:https://www.linkedin.com/in/fatiha-laaouafi-4227252ba/
 [issues-url]: https://github.com/fatiha-laaouafi/PATFT/issues
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 
