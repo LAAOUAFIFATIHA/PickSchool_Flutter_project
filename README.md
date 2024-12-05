@@ -25,8 +25,9 @@ the result must be that your are login successfully and the email that you have 
 you should also download the cli  and execute this commande  <br>
 
 >> dart pub global activate flutterfire_cli
- <br> <br>
-ater you should just add this command to configure the connection. <br>
+ <br> 
+ater you should just add this command to configure the connection.
+<br> <br>
 >> flutterfire configure <br>
 <br>
 >> flutter pub add firebase_core <br>
