@@ -1,5 +1,8 @@
+<a name="readme-top"></a>
+<br>
 # PickSchool Project 
 [![LinkedIn][linkedin-shield]][linkedin-url] 
+[![Issues][issues-shield]][issues-url]
 <br>
 <img src="https://media.istockphoto.com/id/1372327639/vector/business-decision-making-career-path-work-direction-or-choose-the-right-way-to-success.jpg?s=612x612&w=0&k=20&c=1PfTTOp6MT3AAo3GxPM95jykFghCzOYs_zywH_GwiE0=" width="1000" height="300">
 
@@ -75,4 +78,5 @@ lottie <a href="https://pub.dev/packages/lottie"> documentation </a> <br>
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]:https://www.linkedin.com/in/fatiha-laaouafi-4227252ba/
+[issues-url]: https://github.com/fatiha-laaouafi/PATFT/issues
 
