@@ -34,7 +34,8 @@ ater you should just add this command to configure the connection. <br>
 once you execute this commande  succesful you will find the  firebase_core library in the pubsbec.yaml file with the version.
 
 #  Figma_app
-<img src="image\login_page.png" title="login page"> <img src="image/sign_in .png" title="sign_in"> <br>
+<img src="image\login_page.png" title="login page"> <br>
+<img src="image/sign_in .png" title="sign_in"> <br>
  <img src="image/profile.png" title="profile" height="485"> <br>
  <img src="image/home.png" title="home" height="485"> <br>
 
