@@ -20,11 +20,14 @@ You should create a new account on Firebase <a href="https://firebase.google.com
 you should enable the tool to use for my case i am using the email process
 <img src="image/db2.png" alt="pic">
 >> firebase login
+<br>
 the result must be that your are login successfully and the email that you have register with will appeare on the console
 you should also download the cli  and execute this commande 
+<br>
 >> dart pub global activate flutterfire_cli
 >> flutterfire configure
 >> flutter pub add firebase_core
+<br>
 once you execute this commande  succesful you will find the  firebase_core library in the pubsbec.yaml file with the version.
 
 #  Figma_app
