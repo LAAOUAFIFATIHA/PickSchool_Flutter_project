@@ -26,8 +26,9 @@ you should also download the cli  and execute this commande  <br>
 
 >> dart pub global activate flutterfire_cli
  <br>
-ater you should just add this command to configure the connection.
->> flutterfire configure 
+ater you should just add this command to configure the connection. <br>
+>> flutterfire configure <br>
+<br>
 >> flutter pub add firebase_core <br>
 <br>
 once you execute this commande  succesful you will find the  firebase_core library in the pubsbec.yaml file with the version.
