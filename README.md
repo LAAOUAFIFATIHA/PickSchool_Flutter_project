@@ -35,6 +35,7 @@ you should also download the cli  and execute this commande  <br>
    ```
  <br> 
 ater you should just add this command to configure the connection. <br>
+
    ```
    flutterfire configure
    ``` 
@@ -42,7 +43,8 @@ ater you should just add this command to configure the connection. <br>
 <br>
 
 once you execute this commande  succesful you will find the  firebase_core library in the pubsbec.yaml file with the version.
-<br>
+
+
    ```
    flutter pub add firebase_core
    ``` 
