@@ -17,6 +17,8 @@ In the modern workplace, educational approaches are vital in determining one's p
 ### connection ro the database --firebase 
 You should create a new account on Firebase <a href="https://firebase.google.com/"> Firebase Official Website  </a>and create a database by giving all the information that is required.
 <img src="assets/image/db1.png" alt="firebase">
+you should enable the tool to use for my case i am using the email process
+<img src="image/db2.png" alt="pic">
 
 #  Figma_app
 <img src="image\login_page.png" title="login page"> <img src="image/sign_in .png" title="sign_in"> 
