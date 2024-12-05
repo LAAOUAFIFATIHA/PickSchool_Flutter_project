@@ -28,6 +28,10 @@ you should enable the tool to use for my case i am using the email process
 the result must be that your are login successfully and the email that you have register with will appeare on the console
 you should also download the cli  and execute this commande  <br>
 
+   ```
+   git clone https://github.com/bouslama-hamza/PATFT.git
+   ```
+
 >> dart pub global activate flutterfire_cli
  <br> 
 ater you should just add this command to configure the connection. <br>
