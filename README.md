@@ -18,14 +18,13 @@ In the modern workplace, educational approaches are vital in determining one's p
 You should create a new account on Firebase <a href="https://firebase.google.com/"> Firebase Official Website  </a>and create a database by giving all the information that is required.
 <img src="assets/image/db1.png" alt="firebase">
 you should enable the tool to use for my case i am using the email process
-<img src="image/db2.png" alt="pic">
+<img src="image/db2.png" alt="pic"> <br>
 >> firebase login <br>
 <br>
 the result must be that your are login successfully and the email that you have register with will appeare on the console
 you should also download the cli  and execute this commande 
-<br>
->> dart pub global activate flutterfire_cli <br>
->> flutterfire configure <br>
+>> dart pub global activate flutterfire_cli 
+>> flutterfire configure 
 >> flutter pub add firebase_core <br>
 <br>
 once you execute this commande  succesful you will find the  firebase_core library in the pubsbec.yaml file with the version.
