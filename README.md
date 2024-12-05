@@ -22,8 +22,10 @@ you should enable the tool to use for my case i am using the email process
 >> firebase login <br>
 <br>
 the result must be that your are login successfully and the email that you have register with will appeare on the console
-you should also download the cli  and execute this commande  <br>
->> dart pub global activate flutterfire_cli <br>
+you should also download the cli  and execute this commande
+>> <br>
+>> dart pub global activate flutterfire_cli
+>>  <br>
 ater you should just add this command to configure the connection.
 >> flutterfire configure 
 >> flutter pub add firebase_core <br>
