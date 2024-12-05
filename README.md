@@ -84,5 +84,5 @@ lottie <a href="https://pub.dev/packages/lottie"> documentation </a> <br>
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/bouslama-hamza/PATFT/graphs/contributors
+[contributors-url]: https://github.com/fatiha-laaouafi/PATFT/graphs/contributors
 
