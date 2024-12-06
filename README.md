@@ -27,7 +27,7 @@ You should create a new account on Firebase <a href="https://firebase.google.com
 you should enable the tool to use for my case i am using the email process
 <img src="image/db2.png" alt="pic"> <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-after this you create a new project and open it on vs code or android to connect it with the database.
+after this you create a new project and open it on vs code or android to connect it with the database. <br>
 1. verify that you are login to the firebase
    ```
    firebase login
