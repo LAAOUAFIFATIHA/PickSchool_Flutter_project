@@ -28,11 +28,11 @@ you should enable the tool to use for my case i am using the email process
 <img src="image/db2.png" alt="pic"> <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 after this you create a new project and open it on vs code or android to connect it with the database. <br>
-1. verify that you are login to the firebase <br>
+1. verify that you are login to the firebase
+
    ```
    firebase login
    ```
- 
 <br>
 the result must be that your are login successfully and the email that you have register with will appeare on the console
 you should also download the cli  and execute this commande  <br>
