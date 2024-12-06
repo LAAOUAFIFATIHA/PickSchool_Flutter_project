@@ -23,19 +23,22 @@ You should create a new account on Firebase <a href="https://firebase.google.com
 <img src="assets/image/db1.png" alt="firebase">
 you should enable the tool to use for my case i am using the email process
 <img src="image/db2.png" alt="pic"> <br>
+after this you create a new project and open it on vs code or android to connect it with the database.
+1. verify that you are login to the firebase
    ```
    firebase login
    ```
+ 
 <br>
 the result must be that your are login successfully and the email that you have register with will appeare on the console
 you should also download the cli  and execute this commande  <br>
-
+   2. activate flutterfire cli 
    ```
    dart pub global activate flutterfire_cli
    ```
  <br> 
 ater you should just add this command to configure the connection. <br>
-
+3. configure the connection 
    ```
    flutterfire configure
    ``` 
@@ -44,7 +47,7 @@ ater you should just add this command to configure the connection. <br>
 
 once you execute this commande  succesful you will find the  firebase_core library in the pubsbec.yaml file with the version.
 
-
+4. add dependencies for firebase_core
    ```
    flutter pub add firebase_core
    ``` 
