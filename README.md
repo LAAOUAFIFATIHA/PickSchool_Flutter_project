@@ -19,7 +19,7 @@ The purpose of this initiative is to help students forecast their likelihood of 
 ## Project objective
 In the modern workplace, educational approaches are vital in determining one's professional path. As a result, selecting a college to continue your education after high school is crucial. Our project's objective is to assist you in estimating the probability that you will be admitted to the school of your choice. Furthermore, our research will offer tailored suggestions regarding the best educational institution for every student to attend.
 
-<a name="#readme-top">back to top</a>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### connection ro the database --firebase 
 You should create a new account on Firebase <a href="https://firebase.google.com/"> Firebase Official Website  </a>and create a database by giving all the information that is required.
