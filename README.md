@@ -40,7 +40,7 @@ you should also download the cli  and execute this commande  <br>
  <br> 
 ater you should just add this command to configure the connection. <br>
 3. configure the connection  
-<br>
+<br>  <br>
    ```
    flutterfire configure
    ``` 
@@ -49,7 +49,7 @@ ater you should just add this command to configure the connection. <br>
 
 once you execute this commande  succesful you will find the  firebase_core library in the pubsbec.yaml file with the version.
 
-4. add dependencies for firebase_core  <br>
+4. add dependencies for firebase_core  <br>  <br>
    ```
    flutter pub add firebase_core
    ``` 
