@@ -32,13 +32,15 @@ after this you create a new project and open it on vs code or android to connect
 <br>
 the result must be that your are login successfully and the email that you have register with will appeare on the console
 you should also download the cli  and execute this commande  <br>
-   2. activate flutterfire cli  <br>
+   2. activate flutterfire cli  
+   <br>  <br>
    ```
    dart pub global activate flutterfire_cli
    ```
  <br> 
 ater you should just add this command to configure the connection. <br>
-3. configure the connection  <br>
+3. configure the connection  
+<br>
    ```
    flutterfire configure
    ``` 
@@ -51,7 +53,7 @@ once you execute this commande  succesful you will find the  firebase_core libra
    ```
    flutter pub add firebase_core
    ``` 
-
+ <br>
 
 #  Figma_app
 <img src="image\login_page.png" title="login page"> <br>
