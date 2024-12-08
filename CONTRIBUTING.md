@@ -1,4 +1,4 @@
-# Contributing to PickSchool_Flutter_project
+#Contributing to PickSchool_Flutter_project
 
 Thank you for considering contributing to PickSchool_Flutter_project! 🎉 
 
