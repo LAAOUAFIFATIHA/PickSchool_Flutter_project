@@ -60,6 +60,16 @@ once you execute this commande  succesful you will find the  firebase_core libra
  <br>
  <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+
+
+
+ <video width="640" height="360" controls>
+  <source src="image/PickSchool.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 #  Figma_app
 <img src="image/Capture d’écran 2024-12-01 165904.png" title="reset password"> <br>
 <img src="image/sign_in .png" title="sign_in"> <br>
