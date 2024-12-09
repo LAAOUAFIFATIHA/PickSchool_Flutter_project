@@ -114,8 +114,11 @@ lottie <a href="https://pub.dev/packages/lottie"> documentation </a> <br>
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]:https://www.linkedin.com/in/fatiha-laaouafi-4227252ba/
-[issues-url]: https://github.com/fatiha-laaouafi/PATFT/issues
+[issues-url]: https://github.com/fatiha-laaouafi/PickSchool_Flutter_project/issues
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+
+[issues-shield]: https://img.shields.io/github/issues/LAAOUAFIFATIHA/PickSchool_Flutter_project
+[issues-url]: https://github.com/LAAOUAFIFATIHA/PickSchool_Flutter_project/issues
 
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/LAAOUAFIFATIHA/PickSchool_Flutter_project/blob/main/CONTRIBUTING.md
