@@ -112,9 +112,6 @@ lottie <a href="https://pub.dev/packages/lottie"> documentation </a> <br>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Open Issues][issues-shield]][issues-url]
-[![Contributors][contributors-shield]][contributors-url]
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/fatiha-laaouafi-4227252ba/
