@@ -74,11 +74,11 @@ void main() async {
 }
 ```
 <br>
-add these imports to your main.dart file. to import the firebase materiels in order to work with.
+add these imports to your main.dart file. to import the firebase materiels in order to work with. <br>
+
 ```
 import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';
-
 ```
 <br>
 
