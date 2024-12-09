@@ -61,6 +61,14 @@ once you execute this commande  succesful you will find the  firebase_core libra
  <br>
  <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+```
+  await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform,
+  );
+```
+<br>
+
+
 
 ## demanstration
 
