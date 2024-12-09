@@ -112,12 +112,16 @@ lottie <a href="https://pub.dev/packages/lottie"> documentation </a> <br>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]:https://www.linkedin.com/in/fatiha-laaouafi-4227252ba/
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Open Issues][issues-shield]][issues-url]
+[![Contributors][contributors-shield]][contributors-url]
 
-[issues-shield]: https://img.shields.io/github/issues/LAAOUAFIFATIHA/PickSchool_Flutter_project
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/fatiha-laaouafi-4227252ba/
+
+[issues-shield]: https://img.shields.io/github/issues/LAAOUAFIFATIHA/PickSchool_Flutter_project?style=for-the-badge
 [issues-url]: https://github.com/LAAOUAFIFATIHA/PickSchool_Flutter_project/issues
 
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/LAAOUAFIFATIHA/PickSchool_Flutter_project?style=for-the-badge
 [contributors-url]: https://github.com/LAAOUAFIFATIHA/PickSchool_Flutter_project/blob/main/CONTRIBUTING.md
 
