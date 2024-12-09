@@ -60,11 +60,25 @@ once you execute this commande  succesful you will find the  firebase_core libra
    ``` 
  <br>
  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+you should modify your main function to be like this <br>
+this is the initialisiation of the database 
+ <br>
 
 ```
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
     options: DefaultFirebaseOptions.currentPlatform,
   );
+  runApp(const MyApp());
+}
+```
+<br>
+add these imports to your main.dart file. to import the firebase materiels in order to work with.
+```
+import 'package:firebase_core/firebase_core.dart';
+import 'firebase_options.dart';
+
 ```
 <br>
 
