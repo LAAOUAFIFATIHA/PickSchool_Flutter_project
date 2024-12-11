@@ -86,7 +86,7 @@ know you can use connect to farebase or use my code.
 
 ## How to use my code ? <br>
 after the installation of  flutter you can 
-create a new connection with database in firebase and you can use my code. <br>
+create a new connection with database in firebase and you can use this code. <br>
 
 ```
 run flutter
