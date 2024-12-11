@@ -84,8 +84,9 @@ import 'firebase_options.dart';
 know you can use connect to farebase or use my code. 
 <br>
 
-## How to use my code  <br>
-after creting a new database in firebase on peut utiliser my code you should just ensure the connetion to the firebase. <br>
+## How to use my code ? <br>
+after the installation of  flutter you can 
+create a new connection with database in firebase and you can use my code. <br>
 
 ```
 run flutter
