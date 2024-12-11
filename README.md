@@ -127,13 +127,12 @@ lottie <a href="https://pub.dev/packages/lottie"> documentation </a> <br>
 
 
 ### 🌐 Find Me Around the Web 
-- **Fiverr:** <a href="https://fr.fiverr.com/fatiha_laa?up_rollout=true"> Fiverr</a>
+<!-- **Fiverr:** <a href="https://fr.fiverr.com/fatiha_laa?up_rollout=true"> Fiverr</a> -->
 - **Email:** <a href="laaouafifatiha@gmail.com"> laaouafifatiha@gmail.com </a>
 - **LinkedIn:** <a href="https://www.linkedin.com/in/fatiha-laaouafi-4227252ba/"> Linkdin </a>
 
-## To use this project 
 
-#### Installation
+## Installation
 - install Flutter <a href = "https://docs.flutter.dev/get-started/install"> Install Now</a>
 - install Git  <a href = "https://gitforwindows.org/">  for Windows </a>
 - install Android Studio <a href = "https://developer.android.com/studio/install#windows"> Install Now</a>
