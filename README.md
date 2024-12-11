@@ -104,7 +104,6 @@ run flutter
 #  Figma_app
 <img src="image/Capture d’écran 2024-12-01 165904.png" title="reset password"> <br>
 <img src="image/sign_in .png" title="sign_in"> <br>
- <img src="image/profile.png" title="profile" height="485"> <br>
  <img src="image/home.png" title="home" height="485"> <br>
  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
