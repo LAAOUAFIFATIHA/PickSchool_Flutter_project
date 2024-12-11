@@ -119,7 +119,7 @@ lottie <a href="https://pub.dev/packages/lottie"> documentation </a> <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Application Stucture 
- <img src="image/useCase.png" title="home" height="485"> <br>
+ <img src="image/use_case.png" title="home" height="485"> <br>
  
  <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
