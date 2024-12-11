@@ -81,7 +81,9 @@ import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';
 ```
 <br>
-know you can use connect to farebase or use my code. <br>
+know you can use connect to farebase or use my code. 
+<br>
+
 ## how to use my code  <br>
 after creting a new database in firebase on peut utiliser my code you should just ensure the connetion to the firebase. <br>
 
