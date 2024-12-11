@@ -22,7 +22,7 @@ In the modern workplace, educational approaches are vital in determining one's p
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### connection ro the database --firebase 
+### Connection ro the database --firebase 
 You should create a new account on Firebase <a href="https://firebase.google.com/"> Firebase Official Website  </a>and create a database by giving all the information that is required.
 <img src="assets/image/db1.png" alt="firebase">
 you should enable the tool to use for my case i am using the email process
@@ -84,12 +84,15 @@ import 'firebase_options.dart';
 know you can use connect to farebase or use my code. 
 <br>
 
-## how to use my code  <br>
+## How to use my code  <br>
 after creting a new database in firebase on peut utiliser my code you should just ensure the connetion to the firebase. <br>
 
+```
+run flutter
+```
+<br>
 
-
-## demanstration
+## Demanstration
 
 
  <video width="640" height="360" controls>
