@@ -108,8 +108,6 @@ run flutter
  <img src="image/home.png" title="home" height="485"> <br>
  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Documentation 
 flutter <a href="https://docs.flutter.dev/"> documentation </a> <br>
