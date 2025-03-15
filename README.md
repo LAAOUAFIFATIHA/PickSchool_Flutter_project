@@ -2,6 +2,7 @@
 <br>
 # PickSchool Project 
 [![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
 [![Stargazers][stars-shield]][stars-url]
 [![LinkedIn][linkedin-shield]][linkedin-url] 
@@ -141,7 +142,8 @@ lottie <a href="https://pub.dev/packages/lottie"> documentation </a> <br>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-
+[forks-shield]: https://img.shields.io/github/forks/LAAOUAFIFATIHA/PickSchool_Flutter_project?style=for-the-badge
+[forks-url]: https://github.com/LAAOUAFIFATIHA/PickSchool_Flutter_project/network/members
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/fatiha-laaouafi-4227252ba/
