@@ -76,7 +76,9 @@ void main() async {
 }
 ```
 <br>
+ <p align="right">(<a href="#readme-top">back to top</a>)</p>
 add these imports to your main.dart file. to import the firebase materiels in order to work with. <br>
+
 
 ```
 import 'package:firebase_core/firebase_core.dart';
@@ -117,7 +119,6 @@ dart <a href="https://dart.dev/guides"> documentation </a> <br>
 firebase <a href="https://docs.flutter.dev/data-and-backend/firebase"> documentation </a> <br>
 lottie <a href="https://pub.dev/packages/lottie"> documentation </a> <br>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Application Stucture 
  <img src="image/use_case.png" title="home" height="485"> <br>
